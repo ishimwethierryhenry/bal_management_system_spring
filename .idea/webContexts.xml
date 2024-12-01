@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/admin_users.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/home.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/landing.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/login.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/reset-password.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/update_user.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates/user_dashboard.html" value="file://$PROJECT_DIR$/bal_management_system/src/main/resources/templates" />
+      </map>
+    </option>
+  </component>
+</project>
