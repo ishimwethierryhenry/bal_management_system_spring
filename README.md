@@ -10,8 +10,9 @@ And Login here
 ![image](https://github.com/user-attachments/assets/c29416b6-016f-41eb-af0b-848cbcf60d4e)
 
 If you want to proceed as a standard user, It's better to signup using the way above, and therefore login as an admin using the followig credentials
-username: divin
-password: 1234567890
+username: thierry
+
+password: 123
 
 Just in case time is a limitation, otherwise you can check everything on my web-app
 
